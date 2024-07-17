@@ -1,0 +1,7 @@
+train: Train/images
+val: Valid/images
+test: Test/images
+
+nc: 3
+names: ['goalkeeper', 'player', 'referee']
+
